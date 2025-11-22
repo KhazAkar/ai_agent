@@ -1,0 +1,5 @@
+.env
+.venv
+system_venv
+__pycache__/
+*.txt
